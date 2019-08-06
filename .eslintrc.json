@@ -1,0 +1,21 @@
+{
+    "env": {
+        "es6": true,
+        "mocha": true
+    },
+    "extends": [
+        "airbnb-base",
+        "koa"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017,
+        "sourceType": "module"
+    },
+    "rules": {
+        "arrow-body-style": ["error", "always"]
+    }
+}
