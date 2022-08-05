@@ -19,7 +19,7 @@
     "koa-mount-routes": "^1.0.1",
     "koa-router": "^7.4.0",
     "mocha": "^6.2.0",
-    "mongoose": "^5.6.8",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "simple-youtube-api": "^5.2.1"
